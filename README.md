@@ -3,7 +3,7 @@
 ---
 ### [pythonanywhere的部署](http://jingwenfung1111.pythonanywhere.com/)
 ### 项目中共包含8个url，包含主页，介绍，4个交互图表，以及两个交互图表的运行结果。
-### 本人项目负责部分： 建立python文件运用flask框架，数据图表的导出，制作html页面并完善其样式。
+### 本人项目负责部分： 建立python文件运用flask框架，数据图表的导出，链接数据，制作html页面并完善其样式。
 ---
 ## html文档描述：
 * 运用bootstrap样式、jquery插件库创建主页面，并实现页面有轮播图、图片行展示等功能。
